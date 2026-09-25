@@ -1,0 +1,7 @@
+{
+  "name": "ScholarPulse - Academic Research Assistant",
+  "description": "AI-powered academic research assistant connected to Semantic Scholar to find, analyze, and cite scientific papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
